@@ -32,9 +32,6 @@ User Interface: Command-line interface for user interactions.
 ├── view.mp3            # Optional: project demonstration audio
 └── README.md           # Project documentation
 
-# UI/UX look like
-![logo](https://github.com/israk-hossain/SDP-1st-year-2024/blob/main/sdp.png)
-
 🧱 Technologies Used
 
 Programming Language: C++
@@ -64,7 +61,6 @@ Run the application:
 
 This project is not licensed under any . Feel free to use .
 
-
-
+![logo](https://github.com/israk-hossain/SDP-1st-year-2024/blob/main/sdp.png)
 
 
