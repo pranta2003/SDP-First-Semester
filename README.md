@@ -59,8 +59,4 @@ Run the application:
 
 📄 License
 
-This project is not licensed under any . Feel free to use .
-
-![logo](https://github.com/israk-hossain/SDP-1st-year-2024/blob/main/sdp.png)
-
-
+This project is licensed under the MIT License.
